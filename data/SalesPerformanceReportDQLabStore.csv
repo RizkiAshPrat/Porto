@@ -41,7 +41,7 @@
 |     5894 | Order Finished  | Ann Chong              | 2009-08-12 |              7 |    768660 |      0.1 |          76866 | Office Supplies  | Binders and Binder Accessories |
 |     5925 | Order Finished  | Joy Bell               | 2011-11-12 |             44 |   7844840 |     0.08 |         627587 | Furniture        | Office Furnishings             |
 |     6016 | Order Finished  | Skye Norling           | 2012-01-20 |             19 |    416560 |     0.07 |          29159 | Office Supplies  | Paper                          |
-"|     6116 | Order Finished  | Barry Weirich          | 2009-03-20 |              6 |  19241640 |     0.04 |         769666 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|     6116 | Order Finished  | Barry Weirich          | 2009-03-20 |              6 |  19241640 |     0.04 |         769666 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |     6182 | Order Finished  | Grant Carroll          | 2012-07-21 |             40 |    510960 |     0.04 |          20438 | Office Supplies  | Paper                          |
 |     6535 | Order Finished  | Adrian Hane            | 2012-06-12 |             11 |    624720 |     0.07 |          43730 | Office Supplies  | Pens & Art Supplies            |
 |     6884 | Order Finished  | Skye Norling           | 2009-01-15 |             41 |    434000 |     0.01 |           4340 | Office Supplies  | Paper                          |
@@ -231,7 +231,7 @@
 |    37253 | Order Finished  | Muhammed MacIntyre     | 2012-09-01 |             46 |   2368640 |     0.09 |         213178 | Technology       | Computer Peripherals           |
 |    37541 | Order Finished  | Claudia Miner          | 2010-02-26 |              3 |    143880 |     0.01 |           1439 | Technology       | Computer Peripherals           |
 |    37634 | Order Finished  | Brendan Dodson         | 2012-05-21 |             32 |    736360 |     0.07 |          51545 | Office Supplies  | Storage & Organization         |
-"|    37793 | Order Finished  | Dorothy Wardle         | 2009-11-08 |             16 |    448940 |     0.08 |          35915 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    37793 | Order Finished  | Dorothy Wardle         | 2009-11-08 |             16 |    448940 |     0.08 |          35915 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    37860 | Order Returned  | Mike Pelletier         | 2010-08-27 |              1 |    209700 |     0.07 |          14679 | Furniture        | Office Furnishings             |
 |    38884 | Order Finished  | Edward Hooks           | 2012-08-17 |             47 |    512000 |     0.03 |          15360 | Office Supplies  | Paper                          |
 |    39364 | Order Finished  | Jamie Kunitz           | 2012-11-09 |             29 |   5509860 |     0.06 |         330592 | Furniture        | Office Furnishings             |
@@ -279,8 +279,8 @@
 |    46980 | Order Finished  | Monica Federle         | 2011-01-17 |             34 |    432600 |     0.01 |           4326 | Office Supplies  | Labels                         |
 |    47460 | Order Finished  | Jamie Kunitz           | 2010-10-10 |             12 |     63200 |      0.1 |           6320 | Office Supplies  | Pens & Art Supplies            |
 |    47462 | Order Finished  | Susan Vittorini        | 2011-06-09 |             43 |    308360 |     0.08 |          24669 | Office Supplies  | Binders and Binder Accessories |
-"|    47620 | Order Returned  | Charles McCrossin      | 2012-06-26 |             27 |    604400 |     0.04 |          24176 | Office Supplies  | Scissors, Rulers and Trimmers  |"
-"|    47749 | Order Finished  | Cari Schnelling        | 2010-03-16 |             46 |    799160 |     0.04 |          31966 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    47620 | Order Returned  | Charles McCrossin      | 2012-06-26 |             27 |    604400 |     0.04 |          24176 | Office Supplies  | Scissors, Rulers and Trimmers  |
+|    47749 | Order Finished  | Cari Schnelling        | 2010-03-16 |             46 |    799160 |     0.04 |          31966 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    47873 | Order Finished  | Doug Bickford          | 2010-11-13 |              8 |    104780 |     0.08 |           8382 | Furniture        | Office Furnishings             |
 |    47943 | Order Finished  | Don Miller             | 2009-11-14 |             12 |    122180 |     0.04 |           4887 | Office Supplies  | Labels                         |
 |    48101 | Order Finished  | Fred Wasserman         | 2011-09-12 |              4 |    217740 |     0.05 |          10887 | Office Supplies  | Paper                          |
@@ -293,7 +293,7 @@
 |    50278 | Order Finished  | Beth Thompson          | 2010-05-25 |              2 |    102420 |        0 |              0 | Office Supplies  | Binders and Binder Accessories |
 |    50374 | Order Returned  | Susan Vittorini        | 2009-05-30 |             30 |   6964820 |     0.05 |         348241 | Office Supplies  | Binders and Binder Accessories |
 |    50565 | Order Finished  | Sylvia Foulston        | 2012-08-30 |             43 |   1366920 |     0.09 |         123023 | Office Supplies  | Envelopes                      |
-"|    50688 | Order Finished  | Joy Bell               | 2011-12-16 |             50 |   1200440 |     0.08 |          96035 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    50688 | Order Finished  | Joy Bell               | 2011-12-16 |             50 |   1200440 |     0.08 |          96035 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    50754 | Order Finished  | Becky Castell          | 2009-12-09 |              9 |    128061 |     0.06 |           7684 | Technology       | Telephones and Communication   |
 |    50914 | Order Returned  | Carlos Daly            | 2012-07-03 |             49 |  17103088 |     0.03 |         513093 | Technology       | Telephones and Communication   |
 |    51169 | Order Finished  | Cari Schnelling        | 2010-12-24 |              2 |    583320 |     0.08 |          46666 | Furniture        | Office Furnishings             |
@@ -361,7 +361,7 @@
 |     9537 | Order Finished  | Jennifer Braxton       | 2011-02-13 |              6 |   1812040 |      0.1 |         181204 | Furniture        | Bookcases                      |
 |     9574 | Order Returned  | Joy Smith              | 2011-07-30 |             40 |    869240 |     0.08 |          69539 | Office Supplies  | Binders and Binder Accessories |
 |    10435 | Order Finished  | Evan Minnotte          | 2010-08-10 |             38 |   1742500 |     0.06 |         104550 | Office Supplies  | Pens & Art Supplies            |
-"|    10851 | Order Finished  | Jenna Caffey           | 2009-04-06 |             50 |   1216420 |     0.09 |         109478 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    10851 | Order Finished  | Jenna Caffey           | 2009-04-06 |             50 |   1216420 |     0.09 |         109478 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    10852 | Order Finished  | Harold Engle           | 2010-10-26 |             17 |    571680 |     0.02 |          11434 | Office Supplies  | Binders and Binder Accessories |
 |    11269 | Order Finished  | Harold Engle           | 2012-05-26 |             39 |   4166105 |     0.09 |         374949 | Technology       | Telephones and Communication   |
 |    11362 | Order Finished  | Hilary Holden          | 2012-09-10 |             32 |   6491460 |     0.09 |         584231 | Furniture        | Office Furnishings             |
@@ -488,8 +488,8 @@
 |    56803 | Order Finished  | Carlos Soltero         | 2009-12-10 |             42 |    516380 |      0.1 |          51638 | Office Supplies  | Paper                          |
 |    57159 | Order Finished  | Hilary Holden          | 2010-02-12 |             17 |   9242200 |     0.09 |         831798 | Furniture        | Chairs & Chairmats             |
 |    57507 | Order Finished  | Logan Haushalter       | 2009-06-26 |             10 |    310900 |     0.03 |           9327 | Office Supplies  | Binders and Binder Accessories |
-"|    57922 | Order Finished  | Guy Armstrong          | 2011-02-08 |             50 |    686520 |     0.04 |          27461 | Office Supplies  | Scissors, Rulers and Trimmers  |"
-"|    58117 | Order Finished  | Erica Bern             | 2011-02-20 |             42 |    269720 |     0.04 |          10789 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    57922 | Order Finished  | Guy Armstrong          | 2011-02-08 |             50 |    686520 |     0.04 |          27461 | Office Supplies  | Scissors, Rulers and Trimmers  |
+|    58117 | Order Finished  | Erica Bern             | 2011-02-20 |             42 |    269720 |     0.04 |          10789 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    58278 | Order Finished  | Logan Haushalter       | 2012-09-10 |             37 |   7025800 |     0.08 |         562064 | Furniture        | Office Furnishings             |
 |    58502 | Order Finished  | Harold Engle           | 2010-02-12 |             23 |  10372620 |     0.03 |         311179 | Furniture        | Chairs & Chairmats             |
 |    58788 | Order Finished  | Christopher Schild     | 2010-02-01 |             31 |   1967560 |     0.04 |          78702 | Technology       | Computer Peripherals           |
@@ -557,7 +557,7 @@
 |    32418 | Order Finished  | Marina Lichtenstein    | 2009-01-05 |              5 |   2488380 |     0.08 |         199070 | Furniture        | Chairs & Chairmats             |
 |    34241 | Order Finished  | Sanjit Chand           | 2012-10-08 |              4 |    415100 |     0.08 |          33208 | Office Supplies  | Envelopes                      |
 |    34816 | Order Finished  | Sally Knutson          | 2010-11-05 |             29 |   2316900 |      0.1 |         231690 | Office Supplies  | Appliances                     |
-"|    35011 | Order Finished  | Luke Weiss             | 2012-12-10 |             14 |    308900 |     0.09 |          27801 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    35011 | Order Finished  | Luke Weiss             | 2012-12-10 |             14 |    308900 |     0.09 |          27801 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    36068 | Order Finished  | Anthony Johnson        | 2009-02-05 |             23 |  12266360 |     0.06 |         735982 | Office Supplies  | Appliances                     |
 |    36930 | Order Finished  | Michelle Arnett        | 2011-09-28 |             34 |   5264951 |     0.01 |          52650 | Technology       | Telephones and Communication   |
 |    37315 | Order Finished  | Luke Weiss             | 2012-06-05 |             43 |    341620 |      0.1 |          34162 | Office Supplies  | Paper                          |
@@ -567,7 +567,7 @@
 |    38565 | Order Finished  | Justin Knight          | 2009-03-25 |             20 |    468180 |     0.01 |           4682 | Furniture        | Office Furnishings             |
 |    39783 | Order Finished  | Sally Knutson          | 2012-09-20 |             19 |    164860 |     0.04 |           6594 | Office Supplies  | Appliances                     |
 |    42500 | Order Finished  | Michelle Arnett        | 2010-02-05 |             39 |   3672120 |     0.04 |         146885 | Office Supplies  | Appliances                     |
-"|    44162 | Order Finished  | Julie Creighton        | 2010-03-19 |             46 |   1015280 |     0.04 |          40611 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    44162 | Order Finished  | Julie Creighton        | 2010-03-19 |             46 |   1015280 |     0.04 |          40611 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    44256 | Order Finished  | Sally Knutson          | 2011-11-19 |             39 |    602720 |     0.09 |          54245 | Office Supplies  | Paper                          |
 |    44320 | Order Finished  | Sally Knutson          | 2009-04-29 |             49 |  14004160 |      0.1 |        1400416 | Furniture        | Tables                         |
 |    45377 | Order Finished  | Kimberly Carter        | 2011-04-03 |             47 |    182860 |     0.08 |          14629 | Office Supplies  | Binders and Binder Accessories |
@@ -604,12 +604,12 @@
 |     5504 | Order Finished  | Anna Andreadi          | 2010-01-05 |              6 |     99100 |     0.06 |           5946 | Office Supplies  | Paper                          |
 |     8390 | Order Finished  | Emily Grady            | 2012-04-21 |             24 |   1430800 |     0.08 |         114464 | Technology       | Computer Peripherals           |
 |     8545 | Order Finished  | Barbara Fisher         | 2009-06-17 |             25 |    227500 |        0 |              0 | Office Supplies  | Binders and Binder Accessories |
-"|     9573 | Order Finished  | Emily Grady            | 2012-06-13 |             41 |    266460 |        0 |              0 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|     9573 | Order Finished  | Emily Grady            | 2012-06-13 |             41 |    266460 |        0 |              0 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |     9892 | Order Finished  | Kelly Williams         | 2012-07-16 |             50 |   2813280 |     0.02 |          56266 | Office Supplies  | Envelopes                      |
 |    10048 | Order Finished  | Sonia Sunley           | 2009-05-15 |             46 |   6394900 |     0.08 |         511592 | Technology       | Computer Peripherals           |
 |    10144 | Order Finished  | Sonia Sunley           | 2011-01-02 |             16 |  10807500 |     0.08 |         864600 | Furniture        | Chairs & Chairmats             |
 |    10432 | Order Finished  | Sonia Sunley           | 2012-01-05 |             13 |   4646720 |     0.08 |         371738 | Technology       | Computer Peripherals           |
-"|    10661 | Order Finished  | Jocasta Rupert         | 2009-01-23 |             18 |    272820 |        0 |              0 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    10661 | Order Finished  | Jocasta Rupert         | 2009-01-23 |             18 |    272820 |        0 |              0 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    12806 | Order Returned  | Sonia Sunley           | 2011-12-24 |             20 |   1522460 |        0 |              0 | Office Supplies  | Envelopes                      |
 |    13158 | Order Returned  | Kelly Williams         | 2012-11-20 |             26 |    374320 |     0.01 |           3743 | Office Supplies  | Binders and Binder Accessories |
 |    13507 | Order Finished  | Anna Andreadi          | 2012-12-29 |             27 |    352200 |     0.09 |          31698 | Office Supplies  | Paper                          |
@@ -795,7 +795,7 @@
 |    30310 | Order Finished  | Thomas Brumley         | 2012-04-26 |             21 |   4048057 |      0.1 |         404806 | Technology       | Telephones and Communication   |
 |    31426 | Order Finished  | Greg Maxwell           | 2009-08-05 |             40 |   8108116 |     0.09 |         729730 | Technology       | Telephones and Communication   |
 |    31872 | Order Finished  | Vicky Freymann         | 2010-09-06 |             34 |   5666380 |     0.06 |         339983 | Office Supplies  | Envelopes                      |
-"|    31874 | Order Finished  | Shahid Shariari        | 2012-09-15 |             29 |    643900 |     0.03 |          19317 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    31874 | Order Finished  | Shahid Shariari        | 2012-09-15 |             29 |    643900 |     0.03 |          19317 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    31938 | Order Finished  | Shahid Shariari        | 2011-07-27 |             13 |   2387240 |     0.08 |         190979 | Furniture        | Chairs & Chairmats             |
 |    32582 | Order Returned  | Tony Chapman           | 2009-06-25 |             27 |   5561760 |     0.07 |         389323 | Furniture        | Office Furnishings             |
 |    32611 | Order Finished  | Neil Knudson           | 2009-08-27 |             16 |     67520 |     0.04 |           2701 | Office Supplies  | Binders and Binder Accessories |
@@ -835,7 +835,7 @@
 |    43079 | Order Finished  | Giulietta Weimer       | 2009-07-21 |             40 |   2368060 |     0.04 |          94722 | Technology       | Computer Peripherals           |
 |    43111 | Order Finished  | Sally Knutson          | 2011-09-12 |             27 |   9445660 |     0.01 |          94457 | Office Supplies  | Binders and Binder Accessories |
 |    43140 | Order Returned  | Marc Harrigan          | 2009-03-18 |             23 |    260320 |      0.1 |          26032 | Office Supplies  | Paper                          |
-"|    44098 | Order Returned  | John Grady             | 2010-01-27 |              1 |     10120 |     0.01 |            101 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    44098 | Order Returned  | John Grady             | 2010-01-27 |              1 |     10120 |     0.01 |            101 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    44451 | Order Finished  | Khloe Miller           | 2011-09-11 |              4 |    207800 |     0.07 |          14546 | Furniture        | Office Furnishings             |
 |    45059 | Order Finished  | Tony Chapman           | 2011-02-03 |             35 |   2655180 |     0.05 |         132759 | Office Supplies  | Pens & Art Supplies            |
 |    45155 | Order Finished  | Ralph Kennedy          | 2011-02-15 |             44 |    363220 |     0.03 |          10897 | Office Supplies  | Binders and Binder Accessories |
@@ -932,7 +932,7 @@
 |    21766 | Order Finished  | Steve Carroll          | 2009-06-01 |             41 |  10356340 |     0.03 |         310690 | Furniture        | Chairs & Chairmats             |
 |    22053 | Order Finished  | Sean Wendt             | 2010-08-21 |             32 |   1126160 |      0.1 |         112616 | Office Supplies  | Binders and Binder Accessories |
 |    22368 | Order Finished  | Sarah Jordon           | 2010-02-19 |              5 |    384240 |     0.04 |          15370 | Technology       | Computer Peripherals           |
-"|    22885 | Order Finished  | Neil Ducich            | 2009-11-23 |              4 |    112940 |     0.05 |           5647 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    22885 | Order Finished  | Neil Ducich            | 2009-11-23 |              4 |    112940 |     0.05 |           5647 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    22947 | Order Returned  | Sarah Jordon           | 2009-12-18 |             19 |    432500 |     0.09 |          38925 | Furniture        | Office Furnishings             |
 |    23844 | Order Finished  | Michael Granlund       | 2009-07-06 |             40 |   3722720 |        0 |              0 | Office Supplies  | Appliances                     |
 |    24039 | Order Finished  | Sean Wendt             | 2012-07-17 |              5 |    398320 |      0.1 |          39832 | Technology       | Computer Peripherals           |
@@ -957,7 +957,7 @@
 |    33570 | Order Finished  | Ken Heidel             | 2012-12-16 |             46 |    531760 |     0.05 |          26588 | Office Supplies  | Binders and Binder Accessories |
 |    33893 | Order Finished  | Sarah Jordon           | 2012-09-20 |              6 |    464420 |        0 |              0 | Office Supplies  | Envelopes                      |
 |    34599 | Order Finished  | John Castell           | 2010-03-03 |             26 |    383100 |     0.08 |          30648 | Furniture        | Office Furnishings             |
-"|    34721 | Order Finished  | Bart Watters           | 2010-11-01 |             46 |   1006340 |     0.01 |          10063 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    34721 | Order Finished  | Bart Watters           | 2010-11-01 |             46 |   1006340 |     0.01 |          10063 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    34787 | Order Finished  | Sean Wendt             | 2010-02-28 |             14 |    907980 |     0.05 |          45399 | Office Supplies  | Pens & Art Supplies            |
 |    34791 | Order Finished  | Mary O'Rourke          | 2011-05-07 |             37 |    569160 |     0.03 |          17075 | Furniture        | Office Furnishings             |
 |    34822 | Order Finished  | Nathan Cano            | 2012-07-10 |             23 |   1981000 |     0.04 |          79240 | Technology       | Computer Peripherals           |
@@ -966,7 +966,7 @@
 |    36099 | Order Finished  | Neil Ducich            | 2010-09-17 |             32 |    170980 |     0.08 |          13678 | Office Supplies  | Pens & Art Supplies            |
 |    36359 | Order Finished  | Ken Heidel             | 2011-11-23 |              2 |    137320 |     0.06 |           8239 | Office Supplies  | Paper                          |
 |    36901 | Order Finished  | Dana Kaydos            | 2012-09-13 |             30 |    402180 |     0.08 |          32174 | Office Supplies  | Paper                          |
-"|    37412 | Order Finished  | Steve Carroll          | 2012-08-03 |             17 |    383340 |     0.03 |          11500 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    37412 | Order Finished  | Steve Carroll          | 2012-08-03 |             17 |    383340 |     0.03 |          11500 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    38625 | Order Finished  | Chad Sievert           | 2010-11-17 |             28 |   5504000 |     0.06 |         330240 | Technology       | Computer Peripherals           |
 |    38656 | Order Finished  | John Castell           | 2012-08-10 |             13 |    128920 |     0.01 |           1289 | Office Supplies  | Labels                         |
 |    38784 | Order Finished  | Mark Cousins           | 2011-02-03 |             50 |    596240 |     0.09 |          53662 | Office Supplies  | Labels                         |
@@ -976,7 +976,7 @@
 |    39877 | Order Finished  | Nathan Mautz           | 2012-08-16 |             41 |    181760 |     0.04 |           7270 | Office Supplies  | Rubber Bands                   |
 |    40259 | Order Finished  | Theone Pippenger       | 2010-10-12 |              4 |     58100 |     0.08 |           4648 | Technology       | Computer Peripherals           |
 |    41217 | Order Finished  | Nathan Cano            | 2011-07-13 |             23 |   2629280 |     0.03 |          78878 | Office Supplies  | Paper                          |
-"|    41671 | Order Finished  | Bart Watters           | 2012-12-03 |             49 |   1277820 |     0.02 |          25556 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    41671 | Order Finished  | Bart Watters           | 2012-12-03 |             49 |   1277820 |     0.02 |          25556 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    41927 | Order Finished  | Matt Abelman           | 2012-07-13 |             46 |   4664460 |     0.02 |          93289 | Office Supplies  | Paper                          |
 |    41988 | Order Finished  | Matt Abelman           | 2009-02-04 |             33 |   9220700 |     0.08 |         737656 | Technology       | Office Machines                |
 |    42692 | Order Finished  | Scott Williamson       | 2011-12-20 |             41 |    497720 |     0.08 |          39818 | Office Supplies  | Paper                          |
@@ -1112,7 +1112,7 @@
 |    46243 | Order Finished  | Maria Bertelson        | 2012-01-24 |             31 |   1228700 |     0.02 |          24574 | Office Supplies  | Paper                          |
 |    46310 | Order Finished  | Annie Thurman          | 2010-07-21 |             29 |   3870500 |     0.04 |         154820 | Office Supplies  | Binders and Binder Accessories |
 |    46503 | Order Finished  | Meg O'Connel           | 2011-11-06 |             26 |   2393583 |     0.07 |         167551 | Technology       | Telephones and Communication   |
-"|    46726 | Order Finished  | Meg O'Connel           | 2012-07-05 |             46 |    651940 |     0.02 |          13039 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    46726 | Order Finished  | Meg O'Connel           | 2012-07-05 |             46 |    651940 |     0.02 |          13039 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    47042 | Order Finished  | Maria Bertelson        | 2012-03-02 |             45 |   2750753 |     0.03 |          82523 | Technology       | Telephones and Communication   |
 |    47174 | Order Returned  | Maria Bertelson        | 2011-09-16 |             42 |   1284200 |        0 |              0 | Technology       | Office Machines                |
 |    48034 | Order Finished  | Robert Waldorf         | 2009-07-14 |             47 |   1891720 |      0.1 |         189172 | Office Supplies  | Pens & Art Supplies            |
@@ -1308,7 +1308,7 @@
 |      355 | Order Finished  | Henry MacAllister      | 2009-06-13 |             16 |   2479263 |        0 |              0 | Technology       | Telephones and Communication   |
 |      449 | Order Finished  | Candace McMahon        | 2011-07-19 |             45 |    713400 |     0.02 |          14268 | Furniture        | Office Furnishings             |
 |      640 | Order Finished  | Tamara Chand           | 2010-01-22 |             39 |   9827380 |     0.02 |         196548 | Furniture        | Bookcases                      |
-"|      646 | Order Finished  | Duane Huffman          | 2009-11-21 |             18 |    346400 |     0.01 |           3464 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|      646 | Order Finished  | Duane Huffman          | 2009-11-21 |             18 |    346400 |     0.01 |           3464 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |      835 | Order Finished  | Duane Huffman          | 2011-10-07 |             18 |    250320 |     0.02 |           5006 | Office Supplies  | Paper                          |
 |      896 | Order Finished  | Edward Nazzal          | 2010-03-08 |             50 |   2493040 |     0.01 |          24930 | Office Supplies  | Binders and Binder Accessories |
 |      994 | Order Finished  | Kelly Lampkin          | 2009-04-19 |             38 |    264140 |     0.06 |          15848 | Office Supplies  | Rubber Bands                   |
@@ -1318,7 +1318,7 @@
 |     1891 | Order Finished  | Jeremy Ellison         | 2009-12-14 |              3 |    604720 |     0.09 |          54425 | Furniture        | Office Furnishings             |
 |     2022 | Order Finished  | Alan Hwang             | 2012-03-14 |             45 |    372880 |        0 |              0 | Office Supplies  | Appliances                     |
 |     2181 | Order Finished  | Kelly Lampkin          | 2011-09-12 |             40 |    205120 |     0.06 |          12307 | Office Supplies  | Labels                         |
-"|     2628 | Order Finished  | Eileen Kiefer          | 2010-10-21 |             14 |     69180 |     0.04 |           2767 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|     2628 | Order Finished  | Eileen Kiefer          | 2010-10-21 |             14 |     69180 |     0.04 |           2767 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |     2691 | Order Finished  | Ted Trevino            | 2012-04-29 |             14 |   6726280 |      0.1 |         672628 | Furniture        | Bookcases                      |
 |     2912 | Order Finished  | Tamara Dahlen          | 2012-03-11 |              7 |  33174260 |     0.08 |        2653941 | Technology       | Office Machines                |
 |     3235 | Order Finished  | James Lanier           | 2011-11-14 |             31 |    285940 |      0.1 |          28594 | Office Supplies  | Rubber Bands                   |
@@ -1337,7 +1337,7 @@
 |     5601 | Order Finished  | Gary Hansen            | 2012-01-05 |             10 |    241060 |      0.1 |          24106 | Furniture        | Office Furnishings             |
 |     5760 | Order Finished  | Nancy Lomonaco         | 2009-05-24 |             34 |  10523460 |     0.05 |         526173 | Furniture        | Chairs & Chairmats             |
 |     6438 | Order Finished  | Anna Haberlin          | 2010-05-16 |              7 |    151440 |     0.02 |           3029 | Furniture        | Office Furnishings             |
-"|     6592 | Order Finished  | Tamara Chand           | 2009-12-01 |             29 |    388580 |     0.09 |          34972 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|     6592 | Order Finished  | Tamara Chand           | 2009-12-01 |             29 |    388580 |     0.09 |          34972 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |     6755 | Order Finished  | Kelly Lampkin          | 2011-05-01 |             20 |    312940 |     0.01 |           3129 | Office Supplies  | Binders and Binder Accessories |
 |     6918 | Order Finished  | Erin Ashbrook          | 2011-07-01 |             38 |   3119000 |     0.01 |          31190 | Technology       | Computer Peripherals           |
 |     7841 | Order Returned  | Darren Budd            | 2012-05-20 |             21 |   2005540 |     0.07 |         140388 | Furniture        | Office Furnishings             |
@@ -1353,7 +1353,7 @@
 |     9893 | Order Finished  | Edward Nazzal          | 2009-08-16 |              1 |    384980 |     0.02 |           7700 | Furniture        | Chairs & Chairmats             |
 |    10183 | Order Returned  | Darren Budd            | 2009-11-24 |             48 |   2420040 |     0.06 |         145202 | Furniture        | Chairs & Chairmats             |
 |    10247 | Order Finished  | Edward Becker          | 2010-01-10 |             21 |    223320 |     0.06 |          13399 | Office Supplies  | Paper                          |
-"|    10371 | Order Finished  | Melanie Page           | 2009-09-16 |             10 |    312300 |     0.08 |          24984 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    10371 | Order Finished  | Melanie Page           | 2009-09-16 |             10 |    312300 |     0.08 |          24984 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    10498 | Order Returned  | Jesus Ocampo           | 2010-10-23 |             47 |   3936940 |     0.04 |         157478 | Office Supplies  | Pens & Art Supplies            |
 |    10624 | Order Finished  | Darren Powers          | 2009-12-20 |             23 |   2164860 |     0.06 |         129892 | Technology       | Computer Peripherals           |
 |    11425 | Order Returned  | Patrick Bzostek        | 2011-06-22 |             29 |    965820 |      0.1 |          96582 | Office Supplies  | Storage & Organization         |
@@ -1428,7 +1428,7 @@
 |    19716 | Order Finished  | Nat Carroll            | 2009-09-29 |              5 |   1232211 |     0.03 |          36966 | Technology       | Telephones and Communication   |
 |    19782 | Order Finished  | Erin Ashbrook          | 2012-10-18 |             18 |     66420 |     0.06 |           3985 | Office Supplies  | Rubber Bands                   |
 |    20134 | Order Returned  | James Lanier           | 2011-03-12 |             26 |   1167120 |     0.02 |          23342 | Technology       | Computer Peripherals           |
-"|    20259 | Order Finished  | Anna Haberlin          | 2011-05-24 |             42 |   1078120 |     0.05 |          53906 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    20259 | Order Finished  | Anna Haberlin          | 2011-05-24 |             42 |   1078120 |     0.05 |          53906 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    20261 | Order Finished  | Duane Huffman          | 2009-05-20 |             25 |   1503040 |     0.09 |         135274 | Office Supplies  | Binders and Binder Accessories |
 |    20453 | Order Returned  | Magdelene Morse        | 2011-03-10 |             23 |    900780 |     0.07 |          63055 | Furniture        | Office Furnishings             |
 |    20614 | Order Finished  | Arthur Wiediger        | 2009-05-18 |             47 |   7192720 |        0 |              0 | Technology       | Computer Peripherals           |
@@ -1459,7 +1459,7 @@
 |    24196 | Order Finished  | Nat Carroll            | 2010-07-30 |              2 |     26880 |     0.08 |           2150 | Office Supplies  | Paper                          |
 |    24197 | Order Finished  | David Smith            | 2010-02-03 |             41 |   4708800 |        0 |              0 | Technology       | Computer Peripherals           |
 |    24519 | Order Returned  | Duane Huffman          | 2011-06-11 |             22 |    255120 |     0.03 |           7654 | Office Supplies  | Binders and Binder Accessories |
-"|    24546 | Order Finished  | Edward Nazzal          | 2012-03-26 |              7 |    163160 |     0.04 |           6526 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    24546 | Order Finished  | Edward Nazzal          | 2012-03-26 |              7 |    163160 |     0.04 |           6526 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    24579 | Order Finished  | Edward Nazzal          | 2012-11-18 |             45 |  27843200 |     0.02 |         556864 | Office Supplies  | Appliances                     |
 |    24581 | Order Finished  | George Ashbrook        | 2010-04-09 |              8 |     77120 |     0.03 |           2314 | Office Supplies  | Binders and Binder Accessories |
 |    24710 | Order Finished  | Jonathan Howell        | 2010-09-30 |              3 |     44120 |     0.05 |           2206 | Office Supplies  | Paper                          |
@@ -1550,7 +1550,7 @@
 |    38726 | Order Finished  | Eugene Hildebrand      | 2009-05-21 |             44 |    185720 |     0.04 |           7429 | Office Supplies  | Binders and Binder Accessories |
 |    39172 | Order Finished  | Nancy Lomonaco         | 2010-06-25 |             38 |  18027160 |     0.04 |         721086 | Office Supplies  | Appliances                     |
 |    39269 | Order Finished  | Gary Zandusky          | 2012-10-26 |             16 |    929390 |     0.06 |          55763 | Technology       | Telephones and Communication   |
-"|    39330 | Order Finished  | Andy Yotov             | 2010-07-17 |             29 |    369540 |        0 |              0 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    39330 | Order Finished  | Andy Yotov             | 2010-07-17 |             29 |    369540 |        0 |              0 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    39365 | Order Finished  | Cynthia Arntzen        | 2012-05-14 |             32 |   1862160 |      0.1 |         186216 | Technology       | Computer Peripherals           |
 |    39430 | Order Finished  | Edward Becker          | 2009-06-13 |             29 |   1755940 |     0.03 |          52678 | Technology       | Computer Peripherals           |
 |    39555 | Order Returned  | Naresj Patel           | 2012-09-04 |             38 |   2225080 |     0.01 |          22251 | Office Supplies  | Envelopes                      |
@@ -1656,7 +1656,7 @@
 |    54914 | Order Returned  | Duane Huffman          | 2011-08-28 |             32 |    395860 |     0.06 |          23752 | Office Supplies  | Paper                          |
 |    55073 | Order Finished  | Kelly Lampkin          | 2012-03-20 |             40 |   4753421 |     0.01 |          47534 | Technology       | Telephones and Communication   |
 |    55270 | Order Finished  | Edward Nazzal          | 2010-01-22 |              1 |     70280 |     0.02 |           1406 | Office Supplies  | Binders and Binder Accessories |
-"|    55716 | Order Finished  | Philip Brown           | 2012-10-22 |              9 |  29331100 |     0.07 |        2053177 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    55716 | Order Finished  | Philip Brown           | 2012-10-22 |              9 |  29331100 |     0.07 |        2053177 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    55776 | Order Returned  | Dean Braden            | 2009-03-22 |             32 |   9712200 |     0.01 |          97122 | Technology       | Office Machines                |
 |    55874 | Order Returned  | Erica Smith            | 2009-02-16 |             28 |    417660 |        0 |              0 | Office Supplies  | Binders and Binder Accessories |
 |    56002 | Order Finished  | Dave Hallsten          | 2009-07-04 |             21 |   1029060 |     0.04 |          41162 | Office Supplies  | Envelopes                      |
@@ -1721,7 +1721,7 @@
 |    20577 | Order Finished  | Patrick O'Donnell      | 2010-02-09 |             15 |   1223360 |     0.05 |          61168 | Office Supplies  | Binders and Binder Accessories |
 |    20804 | Order Finished  | Sean Miller            | 2011-11-26 |             13 |   8787500 |     0.08 |         703000 | Technology       | Office Machines                |
 |    21414 | Order Finished  | Harry Marie            | 2011-05-04 |             34 |    235820 |     0.05 |          11791 | Office Supplies  | Paper                          |
-"|    21447 | Order Finished  | Sean Christensen       | 2010-06-03 |             15 |    352480 |     0.02 |           7050 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    21447 | Order Finished  | Sean Christensen       | 2010-06-03 |             15 |    352480 |     0.02 |           7050 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    21479 | Order Finished  | Patrick O'Donnell      | 2009-08-28 |             41 |    582320 |     0.01 |           5823 | Office Supplies  | Paper                          |
 |    22208 | Order Finished  | Sean Christensen       | 2009-10-13 |             37 |   2276860 |     0.01 |          22769 | Technology       | Computer Peripherals           |
 |    22279 | Order Finished  | Lena Radford           | 2009-12-22 |             43 |   4927200 |     0.03 |         147816 | Office Supplies  | Paper                          |
@@ -1734,7 +1734,7 @@
 |    27808 | Order Finished  | Michelle Ellison       | 2010-01-26 |              9 |    392240 |     0.01 |           3922 | Technology       | Computer Peripherals           |
 |    29573 | Order Finished  | Michael Dominguez      | 2012-01-16 |             43 |   1584420 |     0.05 |          79221 | Office Supplies  | Paper                          |
 |    29862 | Order Finished  | Maria Zettner          | 2011-06-19 |             34 |    429280 |     0.08 |          34342 | Office Supplies  | Paper                          |
-"|    30433 | Order Finished  | Nathan Gelder          | 2010-06-09 |             17 |    506760 |        0 |              0 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    30433 | Order Finished  | Nathan Gelder          | 2010-06-09 |             17 |    506760 |        0 |              0 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    30532 | Order Finished  | Victoria Wilson        | 2011-11-26 |             28 |    862740 |     0.03 |          25882 | Office Supplies  | Binders and Binder Accessories |
 |    30597 | Order Finished  | Michelle Ellison       | 2012-08-05 |             18 |    186040 |     0.07 |          13023 | Furniture        | Office Furnishings             |
 |    30981 | Order Finished  | Nathan Gelder          | 2011-02-15 |             29 |  15674880 |      0.1 |        1567488 | Office Supplies  | Appliances                     |
@@ -2203,7 +2203,7 @@
 |    11687 | Order Finished  | Dean Percer            | 2011-12-25 |             26 |    377860 |     0.04 |          15114 | Office Supplies  | Paper                          |
 |    12643 | Order Finished  | Ann Blume              | 2010-03-19 |             22 |    691380 |     0.02 |          13828 | Office Supplies  | Paper                          |
 |    13089 | Order Finished  | Damala Kotsonis        | 2011-12-14 |             34 |   7154220 |      0.1 |         715422 | Furniture        | Bookcases                      |
-"|    13378 | Order Finished  | Paul Knutson           | 2009-09-21 |             16 |    192080 |     0.05 |           9604 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    13378 | Order Finished  | Paul Knutson           | 2009-09-21 |             16 |    192080 |     0.05 |           9604 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    13824 | Order Finished  | George Zrebassa        | 2009-12-27 |             19 |    110540 |     0.05 |           5527 | Office Supplies  | Labels                         |
 |    18562 | Order Finished  | Noel Staavos           | 2011-12-20 |             41 |    320220 |      0.1 |          32022 | Office Supplies  | Paper                          |
 |    20737 | Order Finished  | Aaron Hawkins          | 2011-12-25 |             10 |   2821860 |     0.08 |         225749 | Furniture        | Bookcases                      |
@@ -2384,17 +2384,17 @@
 |    17255 | Order Returned  | Dorris Love            | 2010-07-14 |             17 |    316380 |     0.09 |          28474 | Office Supplies  | Storage & Organization         |
 |    17317 | Order Finished  | Laurel Elliston        | 2009-12-03 |              7 |     69320 |     0.06 |           4159 | Office Supplies  | Envelopes                      |
 |    17414 | Order Finished  | Katherine Nockton      | 2012-06-29 |             39 |   7510860 |     0.07 |         525760 | Technology       | Computer Peripherals           |
-"|    17446 | Order Finished  | Ben Wallace            | 2009-06-09 |             15 |    277680 |        0 |              0 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    17446 | Order Finished  | Ben Wallace            | 2009-06-09 |             15 |    277680 |        0 |              0 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    17765 | Order Finished  | Dennis Kane            | 2011-09-15 |             36 |    158040 |     0.08 |          12643 | Office Supplies  | Binders and Binder Accessories |
 |    17958 | Order Finished  | Jasper Cacioppo        | 2011-08-11 |             33 |   2107480 |     0.07 |         147524 | Furniture        | Office Furnishings             |
 |    18375 | Order Finished  | Theresa Swint          | 2011-09-22 |             20 |    153780 |     0.03 |           4613 | Office Supplies  | Labels                         |
-"|    18532 | Order Finished  | Jasper Cacioppo        | 2011-10-20 |             29 |    461540 |     0.09 |          41539 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    18532 | Order Finished  | Jasper Cacioppo        | 2011-10-20 |             29 |    461540 |     0.09 |          41539 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    18627 | Order Finished  | Phillip Flathmann      | 2010-12-20 |              4 |     31400 |     0.01 |            314 | Office Supplies  | Labels                         |
 |    18816 | Order Finished  | Jeremy Lonsdale        | 2009-02-24 |             12 |   1160920 |     0.03 |          34828 | Office Supplies  | Appliances                     |
 |    18852 | Order Finished  | Theresa Swint          | 2011-09-19 |             17 |    702500 |     0.01 |           7025 | Office Supplies  | Paper                          |
 |    19329 | Order Finished  | Max Engle              | 2010-03-07 |             37 |    563180 |     0.07 |          39423 | Furniture        | Office Furnishings             |
 |    19522 | Order Finished  | Alan Haines            | 2009-10-20 |             44 |    323600 |     0.06 |          19416 | Office Supplies  | Binders and Binder Accessories |
-"|    19811 | Order Finished  | Mitch Webber           | 2011-08-08 |             49 |    901320 |     0.01 |           9013 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    19811 | Order Finished  | Mitch Webber           | 2011-08-08 |             49 |    901320 |     0.01 |           9013 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    19841 | Order Finished  | Tom Stivers            | 2010-12-26 |             17 |    426120 |     0.03 |          12784 | Office Supplies  | Pens & Art Supplies            |
 |    19874 | Order Finished  | Mathew Reese           | 2012-06-08 |             31 |    620920 |        0 |              0 | Office Supplies  | Storage & Organization         |
 |    20068 | Order Finished  | Carol Triggs           | 2011-02-28 |              9 |    106360 |     0.09 |           9572 | Office Supplies  | Binders and Binder Accessories |
@@ -2525,7 +2525,7 @@
 |    48487 | Order Returned  | Carol Triggs           | 2010-01-11 |             27 |    721400 |        0 |              0 | Office Supplies  | Binders and Binder Accessories |
 |    48774 | Order Finished  | Dionis Lloyd           | 2012-08-09 |             31 |  14647560 |     0.04 |         585902 | Furniture        | Chairs & Chairmats             |
 |    49381 | Order Finished  | Stuart Van             | 2012-12-13 |             21 |   3075000 |     0.04 |         123000 | Office Supplies  | Storage & Organization         |
-"|    49666 | Order Finished  | Jasper Cacioppo        | 2009-08-06 |             46 |    518500 |      0.1 |          51850 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    49666 | Order Finished  | Jasper Cacioppo        | 2009-08-06 |             46 |    518500 |      0.1 |          51850 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    49762 | Order Returned  | Fred Chung             | 2011-06-15 |             35 |    198260 |     0.09 |          17843 | Office Supplies  | Pens & Art Supplies            |
 |    49831 | Order Finished  | Brenda Bowman          | 2010-08-23 |             18 |    548640 |     0.01 |           5486 | Office Supplies  | Storage & Organization         |
 |    49892 | Order Finished  | Bill Eplett            | 2011-02-10 |             26 |    342280 |     0.02 |           6846 | Office Supplies  | Appliances                     |
@@ -2534,7 +2534,7 @@
 |    50692 | Order Finished  | Shirley Schmidt        | 2010-09-17 |             28 |    655900 |        0 |              0 | Office Supplies  | Binders and Binder Accessories |
 |    50725 | Order Finished  | Muhammed Yedwab        | 2010-11-23 |              1 |    259760 |      0.1 |          25976 | Furniture        | Chairs & Chairmats             |
 |    50982 | Order Finished  | Clay Ludtke            | 2012-04-16 |             23 |    173060 |     0.05 |           8653 | Office Supplies  | Labels                         |
-"|    51008 | Order Finished  | Michael Chen           | 2011-08-20 |             20 |    539320 |     0.02 |          10786 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    51008 | Order Finished  | Michael Chen           | 2011-08-20 |             20 |    539320 |     0.02 |          10786 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    51463 | Order Finished  | Liz Willingham         | 2011-12-17 |              4 |     56680 |     0.01 |            567 | Office Supplies  | Paper                          |
 |    51943 | Order Finished  | Dorris Love            | 2009-04-24 |             11 |    226380 |     0.04 |           9055 | Office Supplies  | Paper                          |
 |    52039 | Order Finished  | Justin MacKendrick     | 2012-08-02 |             48 |   4012760 |        0 |              0 | Technology       | Computer Peripherals           |
@@ -2546,7 +2546,7 @@
 |    53223 | Order Finished  | Stewart Visinsky       | 2012-07-14 |              2 |     26580 |     0.08 |           2126 | Office Supplies  | Binders and Binder Accessories |
 |    53248 | Order Finished  | Brenda Bowman          | 2010-10-29 |              7 |   4846120 |     0.06 |         290767 | Furniture        | Tables                         |
 |    53411 | Order Finished  | Brenda Bowman          | 2011-11-29 |             25 |   1335280 |     0.08 |         106822 | Technology       | Computer Peripherals           |
-"|    53668 | Order Finished  | Dorris Love            | 2010-03-31 |              9 |    196480 |     0.04 |           7859 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    53668 | Order Finished  | Dorris Love            | 2010-03-31 |              9 |    196480 |     0.04 |           7859 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    53730 | Order Finished  | Shirley Schmidt        | 2012-12-29 |             40 |    363600 |     0.05 |          18180 | Office Supplies  | Binders and Binder Accessories |
 |    54020 | Order Finished  | Jennifer Ferguson      | 2012-01-31 |             35 |   1297160 |     0.05 |          64858 | Office Supplies  | Paper                          |
 |    54368 | Order Returned  | Kimberly Carter        | 2011-11-01 |             31 |    466400 |     0.04 |          18656 | Office Supplies  | Paper                          |
@@ -2599,7 +2599,7 @@
 |     4387 | Order Finished  | Sandra Flanagan        | 2011-10-22 |              4 |   1280420 |     0.07 |          89629 | Furniture        | Tables                         |
 |     4512 | Order Finished  | Sandra Flanagan        | 2011-10-24 |             43 |  12154220 |     0.06 |         729253 | Furniture        | Tables                         |
 |     4839 | Order Finished  | Sally Hughsby          | 2009-05-09 |             24 |    318860 |     0.05 |          15943 | Office Supplies  | Paper                          |
-"|     4935 | Order Finished  | Xylona Price           | 2010-05-24 |             30 |    213280 |      0.1 |          21328 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|     4935 | Order Finished  | Xylona Price           | 2010-05-24 |             30 |    213280 |      0.1 |          21328 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |     6403 | Order Finished  | John Lucas             | 2011-02-11 |             41 |  35748520 |        0 |              0 | Office Supplies  | Storage & Organization         |
 |     6754 | Order Finished  | Bill Overfelt          | 2011-08-11 |             13 |   4777272 |     0.01 |          47773 | Technology       | Telephones and Communication   |
 |     7619 | Order Finished  | Sally Hughsby          | 2010-10-08 |              8 |    283540 |     0.02 |           5671 | Technology       | Computer Peripherals           |
@@ -2805,7 +2805,7 @@
 |    54209 | Order Finished  | Arthur Prichep         | 2012-08-15 |             21 |   1329978 |     0.04 |          53199 | Technology       | Telephones and Communication   |
 |    54369 | Order Finished  | Ryan Akin              | 2009-03-02 |             47 |    842160 |        0 |              0 | Technology       | Computer Peripherals           |
 |    54850 | Order Finished  | Nat Carroll            | 2010-12-24 |             16 |   5669920 |     0.07 |         396894 | Office Supplies  | Storage & Organization         |
-"|    54950 | Order Finished  | Stephanie Ulpright     | 2010-12-05 |             26 |    349160 |     0.08 |          27933 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    54950 | Order Finished  | Stephanie Ulpright     | 2010-12-05 |             26 |    349160 |     0.08 |          27933 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    55172 | Order Returned  | Katherine Nockton      | 2010-12-03 |              1 |     75780 |        0 |              0 | Technology       | Computer Peripherals           |
 |    55235 | Order Returned  | Jane Waco              | 2010-10-06 |             33 |   5065235 |        0 |              0 | Technology       | Telephones and Communication   |
 |    55300 | Order Finished  | Sally Hughsby          | 2009-02-20 |             37 |    319780 |     0.03 |           9593 | Office Supplies  | Appliances                     |
@@ -2976,10 +2976,10 @@
 |    13351 | Order Finished  | Karl Brown             | 2010-05-06 |             20 |   6663620 |     0.08 |         533090 | Technology       | Computer Peripherals           |
 |    15687 | Order Finished  | Benjamin Venier        | 2012-04-09 |             48 |   6801260 |     0.08 |         544101 | Furniture        | Bookcases                      |
 |    23169 | Order Finished  | Karl Brown             | 2011-06-23 |             22 |   3367140 |      0.1 |         336714 | Technology       | Computer Peripherals           |
-"|    37863 | Order Finished  | Aaron Hawkins          | 2011-02-24 |             27 |    610100 |     0.04 |          24404 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    37863 | Order Finished  | Aaron Hawkins          | 2011-02-24 |             27 |    610100 |     0.04 |          24404 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    40866 | Order Finished  | Rick Duston            | 2010-05-23 |              3 |   1814360 |     0.06 |         108862 | Office Supplies  | Appliances                     |
 |    49989 | Order Finished  | Dianna Wilson          | 2010-04-26 |              6 |   3709880 |     0.04 |         148395 | Technology       | Computer Peripherals           |
-"|    54595 | Order Returned  | Erica Hernandez        | 2009-04-28 |             30 |    500580 |     0.02 |          10012 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    54595 | Order Returned  | Erica Hernandez        | 2009-04-28 |             30 |    500580 |     0.02 |          10012 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    57249 | Order Finished  | David Kendrick         | 2010-07-20 |             30 |   3550660 |     0.05 |         177533 | Furniture        | Office Furnishings             |
 |     5639 | Order Finished  | Raymond Fair           | 2009-06-01 |             31 |   1002760 |     0.03 |          30083 | Office Supplies  | Storage & Organization         |
 |    12320 | Order Finished  | Tracy Poddar           | 2011-12-20 |             35 |   1078420 |     0.05 |          53921 | Furniture        | Tables                         |
@@ -3041,7 +3041,7 @@
 |     3588 | Order Finished  | Patrick Jones          | 2011-03-18 |             42 |    748760 |     0.03 |          22463 | Office Supplies  | Appliances                     |
 |     5957 | Order Finished  | Ionia McGrath          | 2010-12-26 |             15 |    136640 |     0.05 |           6832 | Office Supplies  | Paper                          |
 |     6183 | Order Finished  | Ionia McGrath          | 2012-06-15 |             41 |   3983860 |     0.02 |          79677 | Office Supplies  | Paper                          |
-"|     6402 | Order Finished  | Nathan Mautz           | 2011-04-23 |             35 |    746660 |     0.01 |           7467 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|     6402 | Order Finished  | Nathan Mautz           | 2011-04-23 |             35 |    746660 |     0.01 |           7467 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |     6720 | Order Finished  | Patrick Jones          | 2010-09-09 |             31 |    329240 |     0.03 |           9877 | Office Supplies  | Binders and Binder Accessories |
 |     6785 | Order Finished  | Nathan Mautz           | 2012-05-06 |              7 |    362640 |     0.03 |          10879 | Furniture        | Office Furnishings             |
 |     8295 | Order Finished  | Karen Seio             | 2009-04-01 |             30 |   1670301 |     0.09 |         150327 | Technology       | Telephones and Communication   |
@@ -3139,7 +3139,7 @@
 |    14785 | Order Finished  | Nicole Brennan         | 2009-10-09 |             20 |    189720 |     0.08 |          15178 | Office Supplies  | Labels                         |
 |    14855 | Order Finished  | John Lee               | 2010-04-30 |             44 |    349800 |     0.06 |          20988 | Office Supplies  | Binders and Binder Accessories |
 |    15045 | Order Finished  | Logan Currie           | 2010-08-20 |             11 |   2757440 |     0.07 |         193021 | Furniture        | Chairs & Chairmats             |
-"|    19621 | Order Finished  | Marc Crier             | 2011-09-07 |             20 |    134060 |     0.04 |           5362 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    19621 | Order Finished  | Marc Crier             | 2011-09-07 |             20 |    134060 |     0.04 |           5362 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    20773 | Order Finished  | Denise Monton          | 2009-03-05 |             44 |    959920 |     0.08 |          76794 | Office Supplies  | Binders and Binder Accessories |
 |    20967 | Order Finished  | Deborah Brumfield      | 2011-03-15 |             50 |  57329040 |     0.09 |        5159614 | Technology       | Copiers and Fax                |
 |    21478 | Order Finished  | Keith Dawkins          | 2012-03-02 |             16 |    846140 |     0.01 |           8461 | Furniture        | Office Furnishings             |
@@ -3202,7 +3202,7 @@
 |    59204 | Order Finished  | Corey Catlett          | 2012-02-29 |             25 |    303500 |     0.04 |          12140 | Office Supplies  | Binders and Binder Accessories |
 |    59969 | Order Finished  | Ed Braxton             | 2012-01-11 |             42 |    875460 |     0.01 |           8755 | Office Supplies  | Envelopes                      |
 |      166 | Order Finished  | Valerie Takahito       | 2011-09-11 |             10 |   1135872 |     0.02 |          22717 | Technology       | Telephones and Communication   |
-"|      197 | Order Finished  | Penelope Sewall        | 2011-04-06 |             23 |    621040 |     0.01 |           6210 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|      197 | Order Finished  | Penelope Sewall        | 2011-04-06 |             23 |    621040 |     0.01 |           6210 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |      231 | Order Finished  | Sean Braxton           | 2009-09-28 |              2 |   1379480 |     0.06 |          82769 | Office Supplies  | Appliances                     |
 |      487 | Order Finished  | Valerie Dominguez      | 2012-08-17 |             19 |    420800 |     0.07 |          29456 | Office Supplies  | Appliances                     |
 |      710 | Order Returned  | Susan MacKendrick      | 2010-01-01 |             42 |    323540 |     0.01 |           3235 | Office Supplies  | Binders and Binder Accessories |
@@ -3233,7 +3233,7 @@
 |     5696 | Order Finished  | Theresa Swint          | 2011-05-03 |              4 |   4412340 |     0.02 |          88247 | Office Supplies  | Binders and Binder Accessories |
 |     5921 | Order Finished  | Maurice Satty          | 2009-04-06 |             27 |    769480 |     0.01 |           7695 | Office Supplies  | Storage & Organization         |
 |     6241 | Order Returned  | Henry Goldwyn          | 2009-12-29 |             24 |    267880 |     0.08 |          21430 | Office Supplies  | Pens & Art Supplies            |
-"|     6406 | Order Finished  | Mick Crebagga          | 2009-08-14 |             43 |    185260 |     0.05 |           9263 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|     6406 | Order Finished  | Mick Crebagga          | 2009-08-14 |             43 |    185260 |     0.05 |           9263 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |     6625 | Order Finished  | Roy Skaria             | 2010-08-15 |             23 |  42125820 |     0.01 |         421258 | Furniture        | Bookcases                      |
 |     6854 | Order Finished  | Victor Price           | 2009-01-06 |              1 |     44260 |     0.07 |           3098 | Office Supplies  | Binders and Binder Accessories |
 |     7335 | Order Finished  | Maureen Grace          | 2010-05-29 |             43 |   7363499 |     0.01 |          73635 | Technology       | Telephones and Communication   |
@@ -3253,7 +3253,7 @@
 |     9124 | Order Finished  | Henry Goldwyn          | 2011-10-16 |             17 |   5275560 |     0.04 |         211022 | Technology       | Computer Peripherals           |
 |     9152 | Order Returned  | Steven Cartwright      | 2010-08-20 |             43 |    585616 |     0.05 |          29281 | Technology       | Telephones and Communication   |
 |     9312 | Order Finished  | Steven Cartwright      | 2012-05-18 |             43 |   2321100 |     0.05 |         116055 | Furniture        | Chairs & Chairmats             |
-"|     9700 | Order Finished  | Sue Ann Reed           | 2011-08-08 |             35 |    212120 |     0.08 |          16970 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|     9700 | Order Finished  | Sue Ann Reed           | 2011-08-08 |             35 |    212120 |     0.08 |          16970 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |     9826 | Order Finished  | Irene Maddox           | 2012-03-22 |              7 |    263220 |     0.01 |           2632 | Technology       | Computer Peripherals           |
 |     9954 | Order Finished  | Thais Sissman          | 2009-06-19 |             36 |  20245440 |     0.07 |        1417181 | Furniture        | Chairs & Chairmats             |
 |    10081 | Order Finished  | Sanjit Engle           | 2010-08-07 |             49 |   2116860 |     0.02 |          42337 | Furniture        | Office Furnishings             |
@@ -3261,7 +3261,7 @@
 |    10530 | Order Finished  | Victor Price           | 2009-01-27 |              4 |    754426 |     0.02 |          15089 | Technology       | Telephones and Communication   |
 |    11270 | Order Finished  | Tanja Norvell          | 2011-06-30 |             15 |    280140 |     0.04 |          11206 | Office Supplies  | Binders and Binder Accessories |
 |    11431 | Order Finished  | Eric Hoffmann          | 2012-08-01 |              5 |     79360 |     0.09 |           7142 | Office Supplies  | Paper                          |
-"|    11815 | Order Finished  | Mike Gockenbach        | 2011-09-12 |             22 |    702540 |     0.08 |          56203 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    11815 | Order Finished  | Mike Gockenbach        | 2011-09-12 |             22 |    702540 |     0.08 |          56203 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    12097 | Order Finished  | Tanja Norvell          | 2010-11-09 |              9 |     99780 |     0.06 |           5987 | Office Supplies  | Paper                          |
 |    12196 | Order Finished  | Tracy Zic              | 2010-06-02 |             32 |   1199040 |     0.04 |          47962 | Technology       | Office Machines                |
 |    12451 | Order Returned  | Thais Sissman          | 2010-04-19 |             26 |   7324320 |     0.01 |          73243 | Furniture        | Bookcases                      |
@@ -3292,14 +3292,14 @@
 |    16866 | Order Finished  | Penelope Sewall        | 2012-02-06 |             43 |   4715817 |     0.06 |         282949 | Technology       | Telephones and Communication   |
 |    17058 | Order Returned  | Gary Hwang             | 2011-01-01 |             15 |    145340 |     0.04 |           5814 | Office Supplies  | Paper                          |
 |    17508 | Order Returned  | Roy Skaria             | 2012-06-27 |             50 |    198160 |     0.01 |           1982 | Office Supplies  | Pens & Art Supplies            |
-"|    18592 | Order Finished  | Nora Pelletier         | 2012-09-30 |              2 |     51440 |     0.04 |           2058 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    18592 | Order Finished  | Nora Pelletier         | 2012-09-30 |              2 |     51440 |     0.04 |           2058 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    18851 | Order Finished  | Thea Hudgings          | 2012-12-16 |             32 |    408420 |     0.04 |          16337 | Office Supplies  | Paper                          |
 |    18853 | Order Finished  | Gary Hwang             | 2010-01-17 |             33 |    447760 |     0.03 |          13433 | Office Supplies  | Pens & Art Supplies            |
 |    18884 | Order Finished  | Nora Pelletier         | 2011-06-24 |              5 |    262540 |      0.1 |          26254 | Furniture        | Chairs & Chairmats             |
 |    19300 | Order Finished  | Denny Joy              | 2009-12-16 |             10 |    157440 |      0.1 |          15744 | Office Supplies  | Paper                          |
 |    19361 | Order Finished  | Valerie Takahito       | 2012-09-23 |             21 |   1577700 |     0.06 |          94662 | Office Supplies  | Binders and Binder Accessories |
 |    19557 | Order Finished  | Valerie Dominguez      | 2011-10-30 |             26 |    133200 |     0.08 |          10656 | Office Supplies  | Rubber Bands                   |
-"|    19586 | Order Finished  | Gary Hwang             | 2012-11-01 |             36 |    141260 |      0.1 |          14126 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    19586 | Order Finished  | Gary Hwang             | 2012-11-01 |             36 |    141260 |      0.1 |          14126 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    19718 | Order Returned  | Victor Price           | 2012-06-24 |              6 |    179500 |     0.03 |           5385 | Technology       | Office Machines                |
 |    19744 | Order Finished  | Natalie Webber         | 2010-03-14 |             41 |    956760 |     0.09 |          86108 | Office Supplies  | Appliances                     |
 |    20069 | Order Finished  | Jack Garza             | 2009-09-26 |              6 |    494300 |     0.07 |          34601 | Furniture        | Office Furnishings             |
@@ -3338,7 +3338,7 @@
 |    25350 | Order Finished  | Troy Blackwell         | 2010-12-03 |             30 |   4955980 |        0 |              0 | Office Supplies  | Appliances                     |
 |    25541 | Order Finished  | Mike Gockenbach        | 2009-01-13 |             50 |    595520 |     0.07 |          41686 | Office Supplies  | Paper                          |
 |    25601 | Order Finished  | Valerie Dominguez      | 2009-01-05 |             43 |    514820 |     0.09 |          46334 | Office Supplies  | Storage & Organization         |
-"|    25828 | Order Returned  | Michael Oakman         | 2010-11-23 |             35 |    482860 |     0.01 |           4829 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    25828 | Order Returned  | Michael Oakman         | 2010-11-23 |             35 |    482860 |     0.01 |           4829 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    26176 | Order Finished  | Gary McGarr            | 2011-11-19 |             14 |    188640 |     0.06 |          11318 | Office Supplies  | Paper                          |
 |    26337 | Order Finished  | Henry Goldwyn          | 2009-11-07 |             45 |    306540 |     0.08 |          24523 | Office Supplies  | Labels                         |
 |    26503 | Order Finished  | Thais Sissman          | 2011-04-21 |             47 |   1343560 |      0.1 |         134356 | Office Supplies  | Envelopes                      |
@@ -3423,7 +3423,7 @@
 |    40261 | Order Finished  | Evan Bailliet          | 2009-11-04 |             36 |    662740 |     0.03 |          19882 | Office Supplies  | Paper                          |
 |    40706 | Order Finished  | Nora Pelletier         | 2012-01-21 |             40 |    222080 |     0.08 |          17766 | Office Supplies  | Labels                         |
 |    40708 | Order Finished  | Toby Knight            | 2009-10-12 |             15 |    207100 |     0.03 |           6213 | Office Supplies  | Pens & Art Supplies            |
-"|    40964 | Order Finished  | Nick Radford           | 2011-05-23 |             40 |    602240 |        0 |              0 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    40964 | Order Finished  | Nick Radford           | 2011-05-23 |             40 |    602240 |        0 |              0 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    42243 | Order Finished  | Phillip Flathmann      | 2012-03-11 |             42 |   3752180 |     0.02 |          75044 | Office Supplies  | Binders and Binder Accessories |
 |    42437 | Order Finished  | Denny Joy              | 2012-03-05 |             43 |  38923600 |     0.06 |        2335416 | Technology       | Copiers and Fax                |
 |    42887 | Order Finished  | Tracy Collins          | 2012-06-10 |              3 |     71360 |     0.01 |            714 | Office Supplies  | Envelopes                      |
@@ -3551,7 +3551,7 @@
 |    15751 | Order Finished  | Maya Herman            | 2009-08-15 |             37 |    379200 |     0.02 |           7584 | Office Supplies  | Labels                         |
 |    15815 | Order Finished  | Mitch Willingham       | 2009-05-01 |             43 |   1057200 |     0.01 |          10572 | Office Supplies  | Binders and Binder Accessories |
 |    16737 | Order Finished  | Toby Grace             | 2011-06-20 |             15 |   2780980 |     0.01 |          27810 | Office Supplies  | Envelopes                      |
-"|    17124 | Order Finished  | William Brown          | 2009-10-25 |             39 |    256620 |     0.05 |          12831 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    17124 | Order Finished  | William Brown          | 2009-10-25 |             39 |    256620 |     0.05 |          12831 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    17666 | Order Finished  | Sam Craven             | 2010-09-08 |             19 |    165120 |     0.01 |           1651 | Office Supplies  | Paper                          |
 |    19075 | Order Finished  | Joseph Holt            | 2009-09-26 |             36 |   3683200 |     0.01 |          36832 | Technology       | Computer Peripherals           |
 |    21220 | Order Finished  | Rick Hansen            | 2012-12-22 |              4 |    952620 |     0.07 |          66683 | Technology       | Office Machines                |
@@ -3672,7 +3672,7 @@
 |    31780 | Order Finished  | Max Ludwig             | 2010-01-29 |             17 |   1468500 |     0.08 |         117480 | Office Supplies  | Appliances                     |
 |    31876 | Order Finished  | Brian Moss             | 2011-05-07 |              8 |   1482980 |     0.08 |         118638 | Office Supplies  | Storage & Organization         |
 |    32356 | Order Finished  | Maribeth Yedwab        | 2012-10-10 |             12 |   1536820 |      0.1 |         153682 | Office Supplies  | Binders and Binder Accessories |
-"|    33473 | Order Finished  | Michelle Moray         | 2011-01-04 |             50 |   1200440 |     0.08 |          96035 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    33473 | Order Finished  | Michelle Moray         | 2011-01-04 |             50 |   1200440 |     0.08 |          96035 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    35043 | Order Finished  | Maribeth Yedwab        | 2010-07-19 |             45 |    250420 |     0.01 |           2504 | Office Supplies  | Rubber Bands                   |
 |    37603 | Order Finished  | Liz Price              | 2010-11-24 |             50 |   4880520 |        0 |              0 | Technology       | Computer Peripherals           |
 |    38561 | Order Finished  | Mark Van Huff          | 2011-08-30 |             19 |    338800 |      0.1 |          33880 | Furniture        | Office Furnishings             |
@@ -3728,7 +3728,7 @@
 |    34663 | Order Finished  | Nick Crebassa          | 2011-07-06 |             38 |  58372980 |     0.05 |        2918649 | Technology       | Office Machines                |
 |    35842 | Order Finished  | Susan Pistek           | 2012-05-24 |             18 |    107580 |     0.03 |           3227 | Office Supplies  | Labels                         |
 |    36131 | Order Finished  | Aleksandra Gannaway    | 2009-05-17 |             43 |    709920 |     0.07 |          49694 | Office Supplies  | Paper                          |
-"|    36992 | Order Returned  | Aleksandra Gannaway    | 2009-12-07 |             34 |    918160 |     0.04 |          36726 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    36992 | Order Returned  | Aleksandra Gannaway    | 2009-12-07 |             34 |    918160 |     0.04 |          36726 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    38596 | Order Returned  | Aleksandra Gannaway    | 2010-04-02 |             20 |    387400 |     0.06 |          23244 | Office Supplies  | Pens & Art Supplies            |
 |    39143 | Order Finished  | Richard Eichhorn       | 2012-04-06 |             46 |  13460140 |     0.05 |         673007 | Furniture        | Bookcases                      |
 |    41186 | Order Returned  | Aleksandra Gannaway    | 2010-11-22 |             33 |   1106683 |     0.08 |          88535 | Technology       | Telephones and Communication   |
@@ -3749,7 +3749,7 @@
 |    56197 | Order Finished  | Neil French            | 2009-05-11 |             11 |     57260 |     0.09 |           5153 | Furniture        | Office Furnishings             |
 |    56548 | Order Finished  | Suzanne McNair         | 2012-09-05 |              7 |   2678048 |     0.03 |          80341 | Furniture        | Tables                         |
 |    59232 | Order Finished  | Robert Waldorf         | 2009-01-05 |             23 |   1450860 |        0 |              0 | Office Supplies  | Paper                          |
-"|    59939 | Order Finished  | Nicole Fjeld           | 2010-09-01 |             42 |    261920 |     0.05 |          13096 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    59939 | Order Finished  | Nicole Fjeld           | 2010-09-01 |             42 |    261920 |     0.05 |          13096 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    59973 | Order Finished  | Suzanne McNair         | 2011-11-15 |             29 |  22079500 |     0.06 |        1324770 | Technology       | Office Machines                |
 |     2563 | Order Finished  | Brenda Bowman          | 2010-11-18 |             12 |     63540 |     0.04 |           2542 | Office Supplies  | Labels                         |
 |     2759 | Order Finished  | Brenda Bowman          | 2010-11-24 |             25 |   1654940 |        0 |              0 | Technology       | Computer Peripherals           |
@@ -3758,7 +3758,7 @@
 |    12420 | Order Finished  | Joel Eaton             | 2010-12-26 |             34 |   1072500 |     0.06 |          64350 | Office Supplies  | Binders and Binder Accessories |
 |    12611 | Order Finished  | Justin Ellison         | 2011-10-15 |             13 |    379980 |     0.03 |          11399 | Office Supplies  | Binders and Binder Accessories |
 |    12676 | Order Finished  | Jennifer Jackson       | 2009-01-15 |             25 |    402120 |     0.08 |          32170 | Furniture        | Office Furnishings             |
-"|    12871 | Order Finished  | Michael Oakman         | 2011-10-04 |             46 |    918520 |     0.08 |          73482 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    12871 | Order Finished  | Michael Oakman         | 2011-10-04 |             46 |    918520 |     0.08 |          73482 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    15040 | Order Finished  | Carl Weiss             | 2009-12-04 |             48 |    820700 |      0.1 |          82070 | Office Supplies  | Paper                          |
 |    15491 | Order Finished  | Michael Oakman         | 2012-01-18 |              5 |   1802748 |     0.01 |          18027 | Technology       | Telephones and Communication   |
 |    17028 | Order Finished  | Jennifer Jackson       | 2009-10-15 |             19 |   1027000 |     0.02 |          20540 | Office Supplies  | Pens & Art Supplies            |
@@ -3839,7 +3839,7 @@
 |    14913 | Order Finished  | Janet Lee              | 2009-02-14 |             47 |   2006860 |     0.01 |          20069 | Office Supplies  | Paper                          |
 |    14951 | Order Returned  | Denise Monton          | 2011-05-17 |             34 |   5558400 |     0.02 |         111168 | Technology       | Computer Peripherals           |
 |    14983 | Order Finished  | Rick Wilson            | 2009-02-11 |             48 |  16951924 |     0.05 |         847596 | Technology       | Telephones and Communication   |
-"|    15524 | Order Finished  | John Huston            | 2012-05-11 |             27 |    313640 |     0.03 |           9409 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    15524 | Order Finished  | John Huston            | 2012-05-11 |             27 |    313640 |     0.03 |           9409 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    15714 | Order Finished  | MaryBeth Skach         | 2011-07-05 |             50 |   5021420 |     0.01 |          50214 | Office Supplies  | Appliances                     |
 |    17282 | Order Returned  | Denise Monton          | 2009-11-18 |             37 |   1976840 |     0.09 |         177916 | Office Supplies  | Binders and Binder Accessories |
 |    17381 | Order Finished  | Rick Wilson            | 2010-08-14 |             28 |    202500 |     0.05 |          10125 | Office Supplies  | Labels                         |
@@ -4303,7 +4303,7 @@
 |    45476 | Order Finished  | Ashley Jarboe          | 2012-04-18 |             48 |   2111960 |     0.07 |         147837 | Office Supplies  | Appliances                     |
 |    45958 | Order Finished  | Dario Medina           | 2011-05-25 |             28 |  35198780 |     0.03 |        1055963 | Technology       | Copiers and Fax                |
 |    47591 | Order Finished  | Dario Medina           | 2012-01-02 |             27 |    558800 |      0.1 |          55880 | Office Supplies  | Storage & Organization         |
-"|    49764 | Order Finished  | Benjamin Farhat        | 2010-10-03 |             37 |    790740 |     0.07 |          55352 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    49764 | Order Finished  | Benjamin Farhat        | 2010-10-03 |             37 |    790740 |     0.07 |          55352 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    50118 | Order Finished  | Dianna Vittorini       | 2010-03-18 |             19 |    674760 |        0 |              0 | Furniture        | Tables                         |
 |    50183 | Order Finished  | Dario Medina           | 2010-05-24 |             20 |    233100 |     0.09 |          20979 | Office Supplies  | Envelopes                      |
 |    50786 | Order Finished  | Cindy Stewart          | 2009-10-12 |              4 |    975440 |     0.06 |          58526 | Technology       | Office Machines                |
@@ -4324,10 +4324,10 @@
 |    56769 | Order Returned  | Cindy Stewart          | 2010-11-29 |             11 |    911180 |     0.02 |          18224 | Furniture        | Office Furnishings             |
 |    57440 | Order Returned  | Rob Williams           | 2010-07-23 |             12 |   2342464 |     0.04 |          93699 | Technology       | Telephones and Communication   |
 |    57889 | Order Finished  | Trudy Bell             | 2010-04-07 |             39 |   1446615 |     0.01 |          14466 | Technology       | Telephones and Communication   |
-"|    58564 | Order Finished  | Benjamin Farhat        | 2012-11-12 |             49 |    206060 |     0.07 |          14424 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    58564 | Order Finished  | Benjamin Farhat        | 2012-11-12 |             49 |    206060 |     0.07 |          14424 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    59072 | Order Returned  | Dianna Vittorini       | 2009-05-25 |             12 |    157880 |     0.03 |           4736 | Office Supplies  | Binders and Binder Accessories |
 |    59652 | Order Returned  | Anna Chung             | 2011-01-27 |             17 |    624070 |     0.05 |          31204 | Technology       | Telephones and Communication   |
-"|    59783 | Order Finished  | Cindy Chapman          | 2010-08-19 |             36 |    154860 |     0.01 |           1549 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    59783 | Order Finished  | Cindy Chapman          | 2010-08-19 |             36 |    154860 |     0.01 |           1549 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |      195 | Order Finished  | Brad Thomas            | 2010-12-27 |             34 |   2631480 |     0.03 |          78944 | Office Supplies  | Pens & Art Supplies            |
 |      224 | Order Finished  | Bart Folk              | 2009-06-17 |             25 |    369720 |     0.09 |          33275 | Furniture        | Office Furnishings             |
 |      263 | Order Finished  | Paul Lucas             | 2009-05-16 |             25 |    273540 |     0.09 |          24619 | Office Supplies  | Binders and Binder Accessories |
@@ -4502,7 +4502,7 @@
 |    19299 | Order Finished  | Brendan Murry          | 2009-03-18 |             10 |     58460 |     0.05 |           2923 | Office Supplies  | Labels                         |
 |    19429 | Order Finished  | Dean Katz              | 2009-08-24 |              2 |    480480 |     0.05 |          24024 | Furniture        | Tables                         |
 |    19430 | Order Finished  | Helen Andreada         | 2010-11-13 |             39 |  13484980 |     0.03 |         404549 | Office Supplies  | Storage & Organization         |
-"|    19524 | Order Finished  | Amy Cox                | 2010-01-14 |              9 |    184040 |     0.07 |          12883 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    19524 | Order Finished  | Amy Cox                | 2010-01-14 |              9 |    184040 |     0.07 |          12883 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    19556 | Order Finished  | Charles Crestani       | 2010-12-30 |             45 |  11571180 |     0.07 |         809983 | Furniture        | Chairs & Chairmats             |
 |    19815 | Order Finished  | Karen Carlisle         | 2010-03-25 |             33 |    334140 |     0.03 |          10024 | Office Supplies  | Paper                          |
 |    20096 | Order Finished  | Peter Buhler           | 2012-08-19 |             35 |  12232220 |     0.03 |         366967 | Furniture        | Tables                         |
@@ -4588,7 +4588,7 @@
 |    28387 | Order Returned  | Maureen Gastineau      | 2012-06-29 |             37 |   6425940 |     0.03 |         192778 | Office Supplies  | Envelopes                      |
 |    28485 | Order Finished  | Giulietta Dortch       | 2012-01-12 |             12 |     98360 |     0.07 |           6885 | Office Supplies  | Pens & Art Supplies            |
 |    28643 | Order Finished  | Thomas Thornton        | 2010-04-27 |             16 |   1319000 |     0.09 |         118710 | Office Supplies  | Binders and Binder Accessories |
-"|    28737 | Order Finished  | Brad Thomas            | 2011-10-03 |             50 |    826740 |     0.04 |          33070 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    28737 | Order Finished  | Brad Thomas            | 2011-10-03 |             50 |    826740 |     0.04 |          33070 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    28807 | Order Finished  | Patrick Bzostek        | 2011-03-31 |              9 |    118700 |     0.02 |           2374 | Office Supplies  | Paper                          |
 |    28832 | Order Finished  | Dave Kipp              | 2010-09-24 |             46 |   3001680 |      0.1 |         300168 | Office Supplies  | Envelopes                      |
 |    28933 | Order Finished  | Shirley Jackson        | 2009-07-09 |              1 |     22320 |     0.01 |            223 | Office Supplies  | Envelopes                      |
@@ -4731,7 +4731,7 @@
 |    47584 | Order Finished  | Bryan Spruell          | 2010-07-27 |              4 |     40380 |     0.03 |           1211 | Office Supplies  | Labels                         |
 |    47683 | Order Finished  | Harold Dahlen          | 2010-09-01 |             38 |    163940 |     0.05 |           8197 | Office Supplies  | Binders and Binder Accessories |
 |    47872 | Order Finished  | Brad Thomas            | 2009-06-12 |             38 |   3512540 |     0.09 |         316129 | Office Supplies  | Appliances                     |
-"|    47877 | Order Finished  | Tamara Willingham      | 2009-08-28 |             16 |    546720 |     0.04 |          21869 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    47877 | Order Finished  | Tamara Willingham      | 2009-08-28 |             16 |    546720 |     0.04 |          21869 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    47879 | Order Finished  | Tamara Willingham      | 2012-01-11 |             19 |    345080 |     0.08 |          27606 | Office Supplies  | Paper                          |
 |    47910 | Order Returned  | Brad Thomas            | 2009-08-15 |             30 |  10581140 |     0.08 |         846491 | Office Supplies  | Storage & Organization         |
 |    47972 | Order Finished  | Brendan Murry          | 2010-10-11 |             46 |  15371240 |     0.02 |         307425 | Office Supplies  | Storage & Organization         |
@@ -4774,7 +4774,7 @@
 |    53344 | Order Finished  | Nora Paige             | 2010-02-24 |             36 |    363900 |     0.03 |          10917 | Office Supplies  | Binders and Binder Accessories |
 |    53381 | Order Finished  | Juliana Krohn          | 2010-09-26 |             26 |    574860 |     0.01 |           5749 | Office Supplies  | Envelopes                      |
 |    53571 | Order Finished  | Dan Campbell           | 2012-03-15 |             21 |    476120 |     0.05 |          23806 | Office Supplies  | Binders and Binder Accessories |
-"|    53635 | Order Finished  | Raymond Fair           | 2012-07-18 |             33 |    207840 |     0.08 |          16627 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    53635 | Order Finished  | Raymond Fair           | 2012-07-18 |             33 |    207840 |     0.08 |          16627 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    53762 | Order Finished  | Ivan Liston            | 2012-06-01 |             28 |    272320 |     0.07 |          19062 | Office Supplies  | Labels                         |
 |    54086 | Order Returned  | Denny Ordway           | 2012-09-06 |             23 |  10124360 |     0.06 |         607462 | Technology       | Office Machines                |
 |    54180 | Order Finished  | Jill Matthias          | 2012-10-22 |             43 |   1827980 |     0.08 |         146238 | Office Supplies  | Pens & Art Supplies            |
@@ -4842,7 +4842,7 @@
 |     4391 | Order Returned  | Eugene Moren           | 2012-02-17 |             20 |   5184864 |     0.06 |         311092 | Technology       | Telephones and Communication   |
 |     4422 | Order Finished  | Scott Cohen            | 2011-05-21 |             12 |    626860 |     0.02 |          12537 | Furniture        | Office Furnishings             |
 |     4741 | Order Finished  | Anthony O'Donnell      | 2012-07-06 |             40 |    685940 |     0.09 |          61735 | Furniture        | Office Furnishings             |
-"|     4835 | Order Finished  | Eugene Moren           | 2009-10-24 |              3 |     18800 |     0.04 |            752 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|     4835 | Order Finished  | Eugene Moren           | 2009-10-24 |              3 |     18800 |     0.04 |            752 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |     5028 | Order Returned  | Art Miller             | 2012-04-16 |             10 |    159360 |     0.06 |           9562 | Furniture        | Office Furnishings             |
 |     5095 | Order Finished  | Lauren Leatherbury     | 2012-04-21 |              7 |   1573350 |     0.01 |          15734 | Technology       | Telephones and Communication   |
 |     5317 | Order Finished  | Christopher Martinez   | 2009-09-08 |             38 |    425140 |     0.09 |          38263 | Office Supplies  | Binders and Binder Accessories |
@@ -4855,10 +4855,10 @@
 |     6978 | Order Returned  | Art Foster             | 2010-12-09 |             47 |    743900 |     0.07 |          52073 | Technology       | Computer Peripherals           |
 |     7461 | Order Finished  | Greg Matthias          | 2009-01-12 |             12 |   8160600 |     0.05 |         408030 | Furniture        | Chairs & Chairmats             |
 |     9505 | Order Finished  | Maribeth Dona          | 2012-06-07 |              2 |    633040 |     0.03 |          18991 | Technology       | Computer Peripherals           |
-"|     9794 | Order Finished  | Scott Cohen            | 2012-03-24 |             25 |    270460 |      0.1 |          27046 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|     9794 | Order Finished  | Scott Cohen            | 2012-03-24 |             25 |    270460 |      0.1 |          27046 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    10148 | Order Finished  | Christopher Martinez   | 2009-03-25 |             27 |  28715700 |     0.02 |         574314 | Furniture        | Bookcases                      |
 |    11045 | Order Finished  | Eugene Moren           | 2012-03-25 |             35 |   1421720 |     0.04 |          56869 | Office Supplies  | Paper                          |
-"|    11074 | Order Finished  | Cynthia Delaney        | 2011-06-09 |             21 |    229060 |     0.07 |          16034 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    11074 | Order Finished  | Cynthia Delaney        | 2011-06-09 |             21 |    229060 |     0.07 |          16034 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    12449 | Order Finished  | Anthony Rawles         | 2010-01-31 |             36 |   2800200 |     0.03 |          84006 | Technology       | Computer Peripherals           |
 |    14661 | Order Finished  | Lauren Leatherbury     | 2010-01-24 |             38 |   2650120 |     0.06 |         159007 | Technology       | Computer Peripherals           |
 |    15303 | Order Returned  | Fred Harton            | 2010-09-13 |             21 |    202260 |     0.02 |           4045 | Office Supplies  | Binders and Binder Accessories |
@@ -4899,7 +4899,7 @@
 |    34532 | Order Returned  | Carol Darley           | 2012-12-11 |             41 |   2468720 |     0.04 |          98749 | Office Supplies  | Envelopes                      |
 |    35139 | Order Finished  | Lauren Leatherbury     | 2010-01-18 |              3 |  20760680 |     0.05 |        1038034 | Technology       | Office Machines                |
 |    35239 | Order Finished  | Barry Blumstein        | 2011-11-12 |             21 |    218580 |     0.08 |          17486 | Office Supplies  | Paper                          |
-"|    35875 | Order Finished  | Cynthia Delaney        | 2011-06-14 |             31 |    697840 |     0.06 |          41870 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    35875 | Order Finished  | Cynthia Delaney        | 2011-06-14 |             31 |    697840 |     0.06 |          41870 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    37125 | Order Finished  | Sanjit Jacobs          | 2010-01-14 |             46 |    144360 |        0 |              0 | Office Supplies  | Rubber Bands                   |
 |    37158 | Order Finished  | Anthony O'Donnell      | 2012-09-22 |             25 |    344080 |     0.05 |          17204 | Office Supplies  | Paper                          |
 |    37380 | Order Returned  | Fred Harton            | 2011-04-01 |             29 |   1474760 |     0.08 |         117981 | Furniture        | Chairs & Chairmats             |
@@ -4924,7 +4924,7 @@
 |    47329 | Order Finished  | Greg Matthias          | 2010-02-10 |              2 |     53280 |     0.09 |           4795 | Office Supplies  | Pens & Art Supplies            |
 |    47461 | Order Finished  | Christopher Martinez   | 2010-04-25 |             39 |    636560 |     0.08 |          50925 | Office Supplies  | Paper                          |
 |    47525 | Order Finished  | Anthony Rawles         | 2011-03-03 |             40 |   1298920 |     0.01 |          12989 | Technology       | Computer Peripherals           |
-"|    48803 | Order Finished  | Christopher Martinez   | 2012-11-09 |             19 |    400820 |     0.05 |          20041 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    48803 | Order Finished  | Christopher Martinez   | 2012-11-09 |             19 |    400820 |     0.05 |          20041 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    49027 | Order Returned  | Fred Harton            | 2011-04-11 |             41 |   1417660 |     0.08 |         113413 | Furniture        | Office Furnishings             |
 |    50822 | Order Finished  | Carol Darley           | 2012-02-07 |              6 |   3270580 |      0.1 |         327058 | Furniture        | Chairs & Chairmats             |
 |    51714 | Order Finished  | Lauren Leatherbury     | 2009-09-05 |             33 |    388180 |     0.03 |          11645 | Office Supplies  | Paper                          |
@@ -5041,7 +5041,7 @@
 |    41793 | Order Finished  | Adam Bellavance        | 2009-05-15 |             48 |   2573740 |     0.05 |         128687 | Furniture        | Office Furnishings             |
 |    42949 | Order Finished  | Adam Bellavance        | 2009-05-21 |             40 |    404220 |     0.08 |          32338 | Office Supplies  | Rubber Bands                   |
 |    43044 | Order Finished  | Laurel Workman         | 2009-10-17 |             23 |    207000 |     0.06 |          12420 | Office Supplies  | Binders and Binder Accessories |
-"|    46048 | Order Finished  | Laurel Workman         | 2012-12-11 |             10 |    271540 |     0.05 |          13577 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    46048 | Order Finished  | Laurel Workman         | 2012-12-11 |             10 |    271540 |     0.05 |          13577 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    48354 | Order Finished  | Lisa Ryan              | 2011-04-20 |             25 |   2774580 |     0.03 |          83237 | Office Supplies  | Paper                          |
 |    48416 | Order Finished  | Ken Dana               | 2009-07-06 |             23 |    335320 |     0.01 |           3353 | Office Supplies  | Paper                          |
 |    49798 | Order Finished  | Lisa Ryan              | 2012-12-08 |              5 |   2849900 |     0.09 |         256491 | Furniture        | Chairs & Chairmats             |
@@ -5160,7 +5160,7 @@
 |    18119 | Order Returned  | Trudy Bell             | 2009-06-24 |             37 |    695680 |        0 |              0 | Office Supplies  | Envelopes                      |
 |    18368 | Order Finished  | Alyssa Crouse          | 2012-11-30 |              3 |    425820 |        0 |              0 | Office Supplies  | Appliances                     |
 |    19424 | Order Finished  | Sibella Parks          | 2011-04-09 |             29 |    121360 |     0.09 |          10922 | Office Supplies  | Binders and Binder Accessories |
-"|    19425 | Order Finished  | Cassandra Brandow      | 2012-09-24 |             34 |    420480 |        0 |              0 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    19425 | Order Finished  | Cassandra Brandow      | 2012-09-24 |             34 |    420480 |        0 |              0 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    19812 | Order Finished  | Alex Russell           | 2010-04-02 |              3 |   2717552 |     0.01 |          27176 | Furniture        | Tables                         |
 |    21510 | Order Finished  | Alyssa Crouse          | 2012-05-08 |             16 |    744180 |     0.04 |          29767 | Technology       | Computer Peripherals           |
 |    21763 | Order Finished  | Adrian Barton          | 2012-05-28 |             22 |   2478889 |     0.07 |         173522 | Technology       | Telephones and Communication   |
@@ -5222,7 +5222,7 @@
 |    48801 | Order Finished  | Cassandra Brandow      | 2012-10-13 |             43 |   4775220 |     0.01 |          47752 | Furniture        | Office Furnishings             |
 |    49954 | Order Finished  | Claire Good            | 2012-02-27 |             36 |   3842255 |     0.08 |         307380 | Technology       | Telephones and Communication   |
 |    50563 | Order Finished  | Alejandro Ballentine   | 2011-07-16 |              2 |    846080 |     0.05 |          42304 | Office Supplies  | Storage & Organization         |
-"|    50882 | Order Finished  | Trudy Bell             | 2010-08-31 |             37 |    733680 |     0.08 |          58694 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    50882 | Order Finished  | Trudy Bell             | 2010-08-31 |             37 |    733680 |     0.08 |          58694 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    51553 | Order Returned  | Adrian Barton          | 2011-11-27 |              3 |  42733020 |        0 |              0 | Technology       | Office Machines                |
 |    52199 | Order Finished  | Adam Shillingsburg     | 2011-01-26 |             19 |    184480 |     0.05 |           9224 | Office Supplies  | Binders and Binder Accessories |
 |    52293 | Order Finished  | Ken Lonsdale           | 2011-04-15 |              4 |     62280 |     0.08 |           4982 | Office Supplies  | Paper                          |
@@ -5268,7 +5268,7 @@
 |    14916 | Order Finished  | Maria Bertelson        | 2009-02-27 |             16 |   3371882 |     0.07 |         236032 | Technology       | Telephones and Communication   |
 |    15300 | Order Finished  | Guy Thornton           | 2011-02-08 |             42 |    459760 |     0.05 |          22988 | Office Supplies  | Paper                          |
 |    15425 | Order Finished  | Guy Thornton           | 2011-07-25 |             29 |   5792280 |     0.08 |         463382 | Technology       | Computer Peripherals           |
-"|    16390 | Order Finished  | Maria Bertelson        | 2012-03-24 |              8 |    172760 |      0.1 |          17276 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    16390 | Order Finished  | Maria Bertelson        | 2012-03-24 |              8 |    172760 |      0.1 |          17276 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    16805 | Order Finished  | Maria Bertelson        | 2011-12-30 |             29 |   1705500 |     0.08 |         136440 | Office Supplies  | Binders and Binder Accessories |
 |    17155 | Order Returned  | Bruce Stewart          | 2009-01-28 |             36 |    535060 |        0 |              0 | Office Supplies  | Paper                          |
 |    18496 | Order Returned  | Brian Thompson         | 2009-05-15 |             30 |   1982020 |     0.01 |          19820 | Technology       | Computer Peripherals           |
@@ -5335,7 +5335,7 @@
 |    58657 | Order Finished  | Meg O'Connel           | 2010-03-27 |             43 |   2676240 |     0.04 |         107050 | Technology       | Computer Peripherals           |
 |    59170 | Order Finished  | Rob Beeghly            | 2009-02-17 |             44 |    484920 |     0.02 |           9698 | Office Supplies  | Binders and Binder Accessories |
 |    59297 | Order Finished  | Ivan Gibson            | 2009-12-09 |             13 |   3164940 |     0.05 |         158247 | Technology       | Office Machines                |
-"|        6 | Order Finished  | Annie Thurman          | 2012-02-20 |              2 |     13860 |     0.01 |            139 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|        6 | Order Finished  | Annie Thurman          | 2012-02-20 |              2 |     13860 |     0.01 |            139 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |      420 | Order Finished  | Annie Thurman          | 2011-10-30 |              8 |     86580 |     0.09 |           7792 | Office Supplies  | Paper                          |
 |     1857 | Order Finished  | Bill Eplett            | 2010-01-12 |             37 |    399520 |     0.07 |          27966 | Office Supplies  | Pens & Art Supplies            |
 |     2247 | Order Finished  | Bill Eplett            | 2012-08-01 |              6 |  42269420 |     0.06 |        2536165 | Technology       | Office Machines                |
@@ -5426,7 +5426,7 @@
 |    32164 | Order Finished  | Adam Bellavance        | 2010-02-02 |             12 |    154020 |     0.02 |           3080 | Office Supplies  | Paper                          |
 |    32228 | Order Finished  | Adam Bellavance        | 2010-11-04 |             35 |    419260 |     0.01 |           4193 | Office Supplies  | Pens & Art Supplies            |
 |    32386 | Order Finished  | Harold Pawlan          | 2012-04-18 |              1 |   3992320 |        0 |              0 | Technology       | Office Machines                |
-"|    32610 | Order Finished  | Cari Sayre             | 2012-08-19 |             47 |    633980 |     0.04 |          25359 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    32610 | Order Finished  | Cari Sayre             | 2012-08-19 |             47 |    633980 |     0.04 |          25359 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    32994 | Order Finished  | Cari Sayre             | 2012-09-16 |             34 |    452820 |     0.05 |          22641 | Office Supplies  | Paper                          |
 |    33283 | Order Returned  | Lisa DeCherney         | 2010-03-20 |             48 |  20925080 |     0.02 |         418502 | Furniture        | Tables                         |
 |    34117 | Order Returned  | Harold Pawlan          | 2012-02-07 |             45 |    599880 |     0.06 |          35993 | Office Supplies  | Binders and Binder Accessories |
@@ -5475,7 +5475,7 @@
 |    52230 | Order Finished  | Ritsa Hightower        | 2012-08-30 |             29 |   5401560 |     0.06 |         324094 | Furniture        | Chairs & Chairmats             |
 |    52518 | Order Returned  | Joni Blumstein         | 2012-04-03 |              8 |    337980 |     0.08 |          27038 | Technology       | Computer Peripherals           |
 |    52673 | Order Finished  | Jas O'Carroll          | 2012-05-08 |             14 |   4090132 |     0.07 |         286309 | Technology       | Telephones and Communication   |
-"|    53026 | Order Finished  | Eva Jacobs             | 2012-02-26 |             35 |    645640 |     0.05 |          32282 | Office Supplies  | Scissors, Rulers and Trimmers  |"
+|    53026 | Order Finished  | Eva Jacobs             | 2012-02-26 |             35 |    645640 |     0.05 |          32282 | Office Supplies  | Scissors, Rulers and Trimmers  |
 |    54019 | Order Finished  | Daniel Raglin          | 2009-07-01 |             35 |   8466300 |     0.08 |         677304 | Technology       | Office Machines                |
 |    54913 | Order Finished  | Pauline Chand          | 2010-07-03 |             11 |    109220 |     0.08 |           8738 | Office Supplies  | Paper                          |
 |    55424 | Order Finished  | Pauline Chand          | 2010-03-02 |              6 |     51680 |     0.04 |           2067 | Furniture        | Office Furnishings             |
